@@ -10,6 +10,9 @@ namespace Upn
     {
         static void Main(string[] args)
         {
+            //Week2.Exercises.EX05_PE();
+            //Week2.Exercises.EX06_PE();
+            Week2.Exercises.EX07_DL();
         }
     }
 }
