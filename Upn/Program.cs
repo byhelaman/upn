@@ -12,7 +12,11 @@ namespace Upn
         {
             //Week2.Exercises.EX05_PE();
             //Week2.Exercises.EX06_PE();
-            Week2.Exercises.EX07_DL();
+            //Week2.Exercises.EX07_DL();
+
+            //Week3.Exercises.EX01_RD();
+            //Week3.Exercises.EX02_TP();
+            Week3.Exercises.EX03_CC();
         }
     }
 }
