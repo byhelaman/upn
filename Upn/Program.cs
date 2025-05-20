@@ -19,7 +19,10 @@ namespace Upn
             //Week3.Exercises.EX02_TP();
             //Week3.Exercises.EX03_CC();
 
-            Week7.Exercises.ConsumoAgua();
+            //Week7.Exercises.ConsumoAgua();
+
+            Week8.Exercises.SueldoTrabajador();
+
 
         }
     }
