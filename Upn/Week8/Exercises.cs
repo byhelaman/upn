@@ -43,7 +43,7 @@ namespace Upn.Week8
                 Console.WriteLine("Ingrese las horas trabajadas: ");
             } while (!double.TryParse(Console.ReadLine(), out horasTrabajo) || horasTrabajo <= 0);
 
-            // Asignar tarifa y calcular sueldo bruto
+            // Asignar tarifa
             switch (categoria)
             {
                 case "a": tarifa = 21.0; break;

@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Week10\Exercises.cs" />
     <Compile Include="Week2\Exercises.cs" />
     <Compile Include="Week3\Exercises.cs" />
     <Compile Include="Week8\Exercises.cs" />
